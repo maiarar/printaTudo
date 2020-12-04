@@ -10,7 +10,7 @@ app.get('/', (req, res) => {
 })
 
 app.post('/', (req, res) => {
-    console.log('chegou:\n', req.body);
+    console.log(req.body);
     res.sendStatus(200);
   })
 

@@ -1,0 +1,25 @@
+{
+  "name": "printatudo",
+  "version": "1.0.0",
+  "description": "PrintaTudo: um server simples que printa qualquer coisa que você joga nele :D",
+  "main": "main.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "supertest": "^6.0.1",
+    "tape": "^5.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node main.test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maiarar/printaTudo.git"
+  },
+  "author": "Mai R (github.com/maiarar)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maiarar/printaTudo/issues"
+  },
+  "homepage": "https://github.com/maiarar/printaTudo#readme"
+}

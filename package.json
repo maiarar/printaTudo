@@ -5,12 +5,12 @@
   "main": "main.js",
   "dependencies": {
     "express": "^4.17.1",
-    "supertest": "^6.0.1",
-    "tape": "^5.0.1"
+    "supertest": "^6.0.1"
   },
   "devDependencies": {},
   "scripts": {
-    "test": "node main.test"
+    "test": "node main.test",
+    "start": "node main.js"
   },
   "repository": {
     "type": "git",
